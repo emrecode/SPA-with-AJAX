@@ -1,8 +1,6 @@
 # SPA-with-AJAX
 
 
-MongoDB+Express.js+JS+Node.js
-
 
 install node.js, mongoDB, git
 
